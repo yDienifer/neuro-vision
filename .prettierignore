@@ -1,0 +1,13 @@
+node_modules/
+
+dist/
+build/
+
+*.config.js
+*.config.ts
+*.config.json
+*.tsbuildinfo
+
+pnpm-lock.yaml
+
+*.log
