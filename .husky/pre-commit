@@ -1,3 +1,2 @@
 pnpm run check:fix
-pnpm exec prettier . --write
 pnpm commitlint --edit "$1"
